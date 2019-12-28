@@ -1,0 +1,3 @@
+rootProject.name = 'photograph'
+
+include 'photograph-api'
